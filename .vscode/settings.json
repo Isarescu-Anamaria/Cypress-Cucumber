@@ -1,0 +1,4 @@
+{
+    "cucumberautocomplete.syncfeatures": "cypress/e2e/features/*.feature",
+    "cucumberautocomplete.steps": ["cypress/e2e/steps/stepDefinitions/**/*.ts"]
+}
